@@ -1,0 +1,11 @@
+{
+  "name": "word-chain",
+  "version": "1.0.0",
+  "description": "Accepts start and end words, and builds a word chain between them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenny Grage",
+  "license": "ISC"
+}
